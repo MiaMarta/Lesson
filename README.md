@@ -1,2 +1,2 @@
 # Lesson
-i made a chnage
+i made a change
